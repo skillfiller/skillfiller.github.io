@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://skillfiller.github.io
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: SkillFiller
+email: keerthi@skillfiller.com
+description: "A human resource Consultancy that fills and fits"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Keerthi Ramalingam
   pic: 1
-  position: Lead Designer
+  position: CEO
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: AS U Like It
   pic: 2
-  position: Lead Marketer
+  position: CFO
   social:
     - title: twitter
       url: #
@@ -62,8 +62,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: S 40, Kovaipudur
+  - line: TamilNadu
 
 # Build settings
 markdown: kramdown
