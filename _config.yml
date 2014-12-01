@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: AS U Like It
+- name: Angel
   pic: 2
-  position: CFO
+  position: COO
   social:
     - title: twitter
       url: #
@@ -36,7 +36,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Flora Sylvia
   pic: 3
   position: Lead Developer
   social:
